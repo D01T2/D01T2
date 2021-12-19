@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D01T2
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently started to learn Python
-- 📫 How to reach by e-mail.
+- 📫 How to reach by e-mail. dominikx@ymail.com
 
 <!---
 D01T2/D01T2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
